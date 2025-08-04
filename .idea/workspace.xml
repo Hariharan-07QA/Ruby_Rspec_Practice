@@ -13,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -30,16 +35,22 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1754287133938",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/haris/Projects/Ruby_Rspec_Practice",
+    "git-widget-placeholder": "test",
+    "last_opened_file_path": "C:/Users/haris/Projects/Ruby_Rspec_Practice/selenium_rspec_project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "ruby.structure.view.model.defaults.configured": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\haris\Projects\Ruby_Rspec_Practice\selenium_rspec_project" />
+    </key>
+  </component>
   <component name="RubyModuleManagerSettings">
     <option name="blackListedRootsPaths">
       <list>
@@ -191,7 +202,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752294045816</updated>
       <workItem from="1752294048323" duration="729000" />
-      <workItem from="1754287074931" duration="324000" />
+      <workItem from="1754287074931" duration="635000" />
     </task>
     <servers />
   </component>
